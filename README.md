@@ -1,5 +1,7 @@
 # STAT545_participation
 
+This repo is part of a STAT 545 exercise to explore GitHub and markdown.
+
 This repository contains work done in class, submitted for participation. The naming convention is as follows:
 
 "cm" = class meeting
